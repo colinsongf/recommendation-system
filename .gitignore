@@ -1,4 +1,4 @@
-*.pkl
+netflix.pkl
 *.txt
 *.lprof
 kernprof.py
